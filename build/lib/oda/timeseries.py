@@ -11,8 +11,12 @@ def areamean2ts(data,lat,lat_unit='degree'):
         lat_unit: 'degree' or 'reg', default is degree
     Output:
         ts: areaweighted mean time series.
-    '''
 
+    Author:
+    Zelun Wu
+    zelunwu@stu.xmu.edu.cn, zelunwu@udel.edu
+    Xiamen University, University of Delaware
+    '''
 
     pi = npml.pi
     if lat_unit == 'degree':
@@ -23,5 +27,5 @@ def areamean2ts(data,lat,lat_unit='degree'):
     weight = np.repeat(weight, shape_data[0], axis=0)
     data_weighted = data * weight
     ts = np.squeeze(np.nanmean(np.nanmean(data_weighted,axis=2),axis=1))
-    return  ts
+    return ts
 

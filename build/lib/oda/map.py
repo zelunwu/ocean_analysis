@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 
 from mpl_toolkits.basemap import Basemap
 import numpy as np
@@ -19,7 +18,12 @@ def contourf(*args,projection='cyl',cmap=cmocean.cm.balance):
     :param cmap: cmap, default is cmocea.cm.balance
 
     Return:
-    map of basemap
+    map: of basemap
+
+    Author:
+    Zelun Wu
+    zelunwu@stu.xmu.edu.cn, zelunwu@udel.edu
+    Xiamen University, University of Delaware
     '''
     if len(args) <3:
         raise TypeError("Not enough input variables")
@@ -94,6 +98,11 @@ def pcolor(*args,projection='cyl',cmap=cmocean.cm.balance):
 
     Return:
     map of basemap
+
+    Author:
+    Zelun Wu
+    zelunwu@stu.xmu.edu.cn, zelunwu@udel.edu
+    Xiamen University, University of Delaware
     '''
     if len(args) < 3:
         raise TypeError("Not enough input variables")

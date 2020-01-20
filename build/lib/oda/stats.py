@@ -14,8 +14,10 @@ def pdf(ts,nbin):
         pdf: probability density function
         x: [min_ts,max_ts]
     
-    Wittern by Zelun Wu, 
-    Department of Physical Oceanography, Xiamen University, January 2020.
+    Author:
+    Zelun Wu
+    zelunwu@stu.xmu.edu.cn, zelunwu@udel.edu
+    Xiamen University, University of Delaware
     '''
     ts_min = np.min(ts) 
     ts_max = np.max(ts) 

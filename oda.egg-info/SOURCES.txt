@@ -1,9 +1,11 @@
 README.md
 setup.py
 oda/__init__.py
+oda/geos.py
+oda/gfd.py
 oda/map.py
+oda/resample.py
 oda/stats.py
-oda/timeseries.py
 oda/tools.py
 oda.egg-info/PKG-INFO
 oda.egg-info/SOURCES.txt

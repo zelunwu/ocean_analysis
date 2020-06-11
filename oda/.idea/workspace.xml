@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7e6ddec-fde1-4388-9b57-13f5b4efd57d" name="Default Changelist" comment="" />
+    <list default="true" id="b7e6ddec-fde1-4388-9b57-13f5b4efd57d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/lib/oda/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../build/lib/oda/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/lib/oda/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/../build/lib/oda/tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/oda-0.12-py3.7.egg" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/oda-0.12-py3.7.egg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oda.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../oda.egg-info/SOURCES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeseries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1WaigcclB1rDHoCYz5vwlFWDu9G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -42,6 +57,9 @@
       <option name="presentableId" value="Default" />
       <updated>1579394218063</updated>
       <workItem from="1579394222585" duration="126000" />
+      <workItem from="1580221744921" duration="4552000" />
+      <workItem from="1580234225943" duration="3844000" />
+      <workItem from="1580307811392" duration="1583000" />
     </task>
     <servers />
   </component>

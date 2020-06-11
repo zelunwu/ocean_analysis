@@ -8,6 +8,8 @@
 '''
 
 from oda import stats
-from oda import timeseries
+from oda import resample
 from oda import map
 from oda import tools
+from oda import gfd
+from oda import geos
